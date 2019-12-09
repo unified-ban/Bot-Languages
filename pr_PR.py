@@ -235,7 +235,7 @@ check = 'Eu tenho as seguintes permissões:\n\
 check_true = 'Minhas permissões estão configuradas corretamente, não há problemas.'
 check_false = 'As permissões não estão configuradas corretamente. Verifica a \
 configurações de administração do grupo ou entre em contato comigo em particular e digite /start \
-para obter mais informações e suporte.
+para obter mais informações e suporte.'
 
 # Say
 say = '<b>Comunicado dos administradores do grupo</b>\n\n%s'
